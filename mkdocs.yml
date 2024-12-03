@@ -1,0 +1,16 @@
+site_name: "my-backend"
+
+nav:
+  - Home: index.md
+  - How It Works: how-it-works.md
+  - Business Flow: business-flow.md
+  - Technical Details:
+    - Architecture: architecture.md
+    - Infrastructure: infrastructure.md
+    - Observability: observability.md
+  - Infos:
+    - Contacts: contacts.md
+    - Changelog: changelog.md
+
+plugins:
+  - techdocs-core
